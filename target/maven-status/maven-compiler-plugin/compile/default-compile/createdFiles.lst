@@ -1,0 +1,5 @@
+com\bobo\movie\dao\Mapper.class
+com\bobo\movie\service\impl\ServiceimpI.class
+com\bobo\movie\service\Service.class
+com\bobo\movie\controller\Controller.class
+com\bobo\movie\domain\Student.class
